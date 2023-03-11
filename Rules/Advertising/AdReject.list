@@ -2401,7 +2401,7 @@ host-suffix,ct.210189.com,REJECT
 host-suffix,ct.niu.xunlei.com,REJECT
 host-suffix,cti.w55c.net,REJECT
 host-suffix,ctsywy.com,REJECT
-host-wildcard,*.ctobsnssdk.com,REJECT
+#host-wildcard,*.ctobsnssdk.com,REJECT
 host-suffix,cupid.jebe.renren.com,REJECT
 host-suffix,current.sina.com.cn,REJECT
 host-suffix,customad.cnn.com,REJECT
