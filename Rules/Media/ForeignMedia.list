@@ -986,7 +986,7 @@ host-keyword,dualstack.apiproxy-device-prod-nlb-,ForeignMedia
 host-keyword,dualstack.ichnaea-web-,ForeignMedia
 
 # >> DNS test
-host-wildcard,netflixdnstest*.com,ForeignMedia
+#host-wildcard,netflixdnstest*.com,ForeignMedia
 ip-cidr,8.41.4.0/24,ForeignMedia
 ip-cidr,23.78.0.0/16,ForeignMedia
 ip-cidr,23.246.0.0/18,ForeignMedia
@@ -1746,12 +1746,12 @@ user-agent,YouTube*,ForeignMedia
 host-suffix,googlevideo.com,ForeignMedia
 host-suffix,youtube.com,ForeignMedia
 host,youtubei.googleapis.com,ForeignMedia
-host-wildcard,youtube.*,ForeignMedia
-host-wildcard,youtube.com.*,ForeignMedia
-host-wildcard,youtube.co.*,ForeignMedia
-host-wildcard,youtubego.*,ForeignMedia
-host-wildcard,youtubego.co.*,ForeignMedia
-host-wildcard,youtubego.com.*,ForeignMedia
+#host-wildcard,youtube.*,ForeignMedia
+#host-wildcard,youtube.com.*,ForeignMedia
+#host-wildcard,youtube.co.*,ForeignMedia
+#host-wildcard,youtubego.*,ForeignMedia
+#host-wildcard,youtubego.co.*,ForeignMedia
+#host-wildcard,youtubego.com.*,ForeignMedia
 host-suffix,youtube,ForeignMedia
 host-suffix,ggpht.cn,ForeignMedia
 host-suffix,ggpht.com,ForeignMedia
