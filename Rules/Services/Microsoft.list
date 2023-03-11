@@ -226,7 +226,7 @@ host-suffix,microsoft365.com,Microsoft
 user-agent,OneDrive*,Microsoft
 user-agent,OneDriveiOSApp*,Microsoft
 host-keyword,Onedrive,Microsoft
-host-wildcard,Onedrive.*,Microsoft
+#host-wildcard,Onedrive.*,Microsoft
 host-keyword,skydrive,Microsoft
 host-keyword,1drv,Microsoft
 host-keyword,sharepoint,Microsoft
