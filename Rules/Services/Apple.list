@@ -4,14 +4,14 @@ host-suffix,aaplimg.com,Apple
 host-suffix,apple.co,Apple
 host-suffix,apple.com,Apple
 host-suffix,apple.com.cn,Apple
-host-wildcard,apple.*,Apple
-host-wildcard,apple.com.*,Apple
+#host-wildcard,apple.*,Apple
+#host-wildcard,apple.com.*,Apple
 host-suffix,itunes.com,Apple
 host-suffix,me.com,Apple
-host-wildcard,ipod.*,Apple
-host-wildcard,imac.*,Apple
-host-wildcard,iphone.*,Apple
-host-wildcard,macbook.*,Apple
+#host-wildcard,ipod.*,Apple
+#host-wildcard,imac.*,Apple
+#host-wildcard,iphone.*,Apple
+#host-wildcard,macbook.*,Apple
 
 # > Apple CIDR
 ip-cidr,17.0.0.0/8,Apple
@@ -33,7 +33,7 @@ host-suffix,appsto.re,Apple
 host-suffix,mzstatic.com,Apple
 
 # > Apple Developer
-host-wildcard,appleworldwidedeveloper.*.net,Apple
+#host-wildcard,appleworldwidedeveloper.*.net,Apple
 host-suffix,adcdownload.apple.com,Apple Domestic
 host-suffix,developer.apple.com,Apple
 
